@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: pagfacu
+        psr4_prefix: pagfacu
+        src_path: app
